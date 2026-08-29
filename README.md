@@ -40,7 +40,7 @@ A project demonstrating my software development skills and practical experience.
 
 ## Live Portfolio
 
-Coming soon.
+(https://nishee-portfolio.vercel.app/)
 
 ## Connect
 
